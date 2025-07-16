@@ -1,0 +1,2 @@
+in log in page, add register link 
+css and UI modificaion 
